@@ -23,16 +23,16 @@ Unzip and run the installer. There's also a [free in-browser demo](https://copil
 - **AI mock interviews:** questions are generated from your résumé and the job description. You choose the level, the number of questions and the mix (behavioral, technical, system design, coding). Each answer gets a score, with what worked and what to improve.
 - **Interviewer Mode:** for hiring managers. It suggests role-specific next questions, each with what it tests and what to listen for.
 - **Résumé Builder:** tailors your résumé to a job description, exports Markdown or LaTeX, and drafts a referral message.
-- **9 AI models**, chosen per question. Fast open models are free; paid plans add GPT, Gemini, Claude and Grok.
+- **9 AI models**, chosen per question. Free: Mercury 2.5 by Inception (the default), GPT-OSS 120B and Qwen. Paid plans add GPT-6 Luna, Gemini and Claude Haiku 5.5.
 
 ## Plans (October 2026)
 
 | Plan | Price | What you get |
 |---|---|---|
-| Free | $0 | 15 minutes a day, sessions up to 15 minutes, fast open models, no card |
+| Free | $0 | 15 minutes a day, sessions up to 15 minutes, Mercury 2.5 and other fast open models, AI mock interviews, no card |
 | Standard | $14.99/mo (sale; regular $19.99) | 60-minute sessions, unlimited sessions 2 hours apart |
-| Pro | $29.99/mo | Premium fast models, no wait between sessions |
-| Pro+ | $49.99/mo | Adds Claude, Gemini and Grok models |
+| Pro | $29.99/mo | GPT-6 Luna and Gemini 2.5 Flash-Lite, no wait between sessions |
+| Pro+ | $49.99/mo | Adds Claude Haiku 5.5 and Gemini 3 Flash |
 | Hour packs | from $5.99 | One-time, never expire |
 
 Current prices are always on the [pricing page](https://copilotinterview.com/pricing).
@@ -58,3 +58,5 @@ Videos:
 ## Support
 
 Email [support@copilotinterview.com](mailto:support@copilotinterview.com) or see the [FAQ](https://copilotinterview.com/faq).
+
+CoPilot Interview is a product of NeuraSense AI LLC. Current version: 1.3.14 (October 2026).
